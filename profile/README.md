@@ -11,8 +11,8 @@ Currently we're working on a fully custom **CityRP** 🏙️ server. There is no
 - **[virtualraptor](https://github.com/Blueasharky)** - A full stack developer & Mapper.
 - **[sparib](https://github.com/sparib)** - A backend developer. Knows many things, good at few.
 - **[taio](https://github.com/OnlyTaio)** - Our lead modeller and token white straight guy.
-- **[professor](https://github.com/professorv2)** - Frontend UI/UX designer and sadly an irishman.
 - **[blazzy](https://github.com/Blazzy12)** - A backend developer & Mapper. 
+- **[professor](https://github.com/professorv2)** - Frontend UI/UX designer and sadly an irishman.
 - **[clue](https://github.com/Grubpit)** - Community management.
 - **[spicygermanpotato](https://github.com/jedimasterpotato)** - Community management.
 
