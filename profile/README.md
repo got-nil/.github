@@ -3,8 +3,6 @@
 GotNil is a Garrys Mod development group made by a group of friends wanting to bring new player focused experiences/systems to gmod to allow our playerbase
 greater control and impact on the in game world around them.
 
-Currently we're working on a fully custom **CityRP** 🏙️ server. There is no release estimate/date yet.
-
 ## Our Team
 
 - 📝 **[morgverd](https://github.com/morgverd)** - A backend developer focusing on networking and external systems using PHP.
