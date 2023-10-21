@@ -6,7 +6,7 @@ greater control and impact on the in game world around them.
 ## Our Team
 
 - **[morgverd](https://github.com/morgverd)** - A backend developer focusing on networking and external systems using PHP.
- - Test
+    - Test
 - **[virtualraptor](https://github.com/Blueasharky)** - A full stack developer & Mapper.
 - **[professor](https://github.com/professorv2)** - Frontend UI/UX designer and sadly an irishman.
 - **[blazzy](https://github.com/Blazzy12)** - A backend developer & Mapper.
